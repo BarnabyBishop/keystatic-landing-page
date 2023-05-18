@@ -1,1 +1,9 @@
+public/images/hero-image@2x.png filter=lfs diff=lfs merge=lfs -text
 public/images/monster.png filter=lfs diff=lfs merge=lfs -text
+public/images/seo-image.png filter=lfs diff=lfs merge=lfs -text
+public/images/features-image-cropped.png filter=lfs diff=lfs merge=lfs -text
+public/images/features-image.png filter=lfs diff=lfs merge=lfs -text
+public/images/features-image@3x.png filter=lfs diff=lfs merge=lfs -text
+public/images/features-image@2x.png filter=lfs diff=lfs merge=lfs -text
+public/images/hero-image.png filter=lfs diff=lfs merge=lfs -text
+public/images/hero-image@3x.png filter=lfs diff=lfs merge=lfs -text
